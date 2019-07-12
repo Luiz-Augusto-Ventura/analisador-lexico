@@ -8,6 +8,8 @@
 
 #### Capturas de tela:
 
+![Requisitos para o analisador léxico](screenshots/requisitos.PNG)
+
 ![Captura de tela do programa](screenshots/captura_programa.png)
 
-![Requisitos para o analisador léxico](screenshots/requisitos.PNG)
+
