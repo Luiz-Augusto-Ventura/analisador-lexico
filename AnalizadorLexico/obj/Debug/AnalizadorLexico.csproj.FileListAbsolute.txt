@@ -1,0 +1,9 @@
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\luiza\Desktop\Compiladores\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
