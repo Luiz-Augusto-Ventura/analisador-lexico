@@ -10,4 +10,4 @@
 
 ![Captura de tela do programa](screenshots/captura_programa.png)
 
-![Requisitos para o analisador léxico](screenshots/requisitos.png)
+![Requisitos para o analisador léxico](screenshots/requisitos.PNG)
